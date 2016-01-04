@@ -1,0 +1,21 @@
+{
+  "name": "qulinary-bower-uservoice",
+  "homepage": "https://github.com/QulinaryOrg/bower-uservoice",
+  "authors": [
+    "Matthew J Martin. <matthew@qulinary.com>"
+  ],
+  "description": "Bower wrapper for UserVoice",
+  "main": "fH77euzzvSyy9YTvIaGw5g.js",
+  "moduleType": [],
+  "keywords": [
+    "UserVoice"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
