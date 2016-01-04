@@ -1,0 +1,45 @@
+{
+  "name": "qulinary-bower-uservoice",
+  "description": "Bower wrapper for UserVoice",
+  "version": "0.0.1",
+  "homepage": "https://github.com/matmar10/grunt-heroku-branch",
+  "author": {
+    "name": "Matthew J. Martin",
+    "email": "matthew@qulinary.com",
+    "url": "http://qulinary.com"
+  },
+
+  "homepage": "https://github.com/QulinaryOrg/bower-uservoice",
+  "authors": [
+    "Matthew J Martin. <matthew@qulinary.com>"
+  ],
+  "description": "Bower wrapper for UserVoice",
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/QulinaryOrg/bower-uservoice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/QulinaryOrg/bower-uservoice/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/QulinaryOrg/bower-uservoice/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+  },
+  "devDependencies": {
+    "express": "^4.13.3",
+    "grunt-cli": "^0.1.13",
+    "grunt-release": "^0.13.0",
+    "load-grunt-tasks": "^3.3.0"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.5"
+  }
+}
